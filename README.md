@@ -1,1 +1,3 @@
-"# OP-Rainbow-Swordz-TModLoader" 
+# OP Rainbow Swordz
+
+## A TModLoader mod for Terraria
