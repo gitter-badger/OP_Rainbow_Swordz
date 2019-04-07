@@ -13,7 +13,7 @@ namespace OP_Rainbow_Swordz.Items.Weapons.Range
 			Tooltip.SetDefault("This is a cheat Fire Gun! It's super quick.\nUses fire arrows even if you don't have any, also doesn't consume ammo.");
 		}
 		public override void SetDefaults() {
-			item.damage = 2000;
+			item.damage = 500;
 			item.ranged = true;
 			item.width = 20;
 			item.height = 20;
