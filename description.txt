@@ -1,0 +1,1 @@
+Adds a sword that deals 90,000,000 damage. Craft with one dirt block.
