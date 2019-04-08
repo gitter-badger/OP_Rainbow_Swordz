@@ -1,4 +1,4 @@
-# OP Rainbow Sword!
+# OP Rainbow Sword<span class="spoiler">z</span>!
 
 ### A [TModLoader](https://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/) mod for [Terraria](https://terraria.org/)
 
