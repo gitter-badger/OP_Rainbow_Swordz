@@ -1,6 +1,6 @@
 # OP Rainbow Sword!
 
-### A TModLoader mod for Terraria
+### A [TModLoader](https://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/) mod for [Terraria](https://terraria.org/)
 
 Download [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/releases/latest)
 
