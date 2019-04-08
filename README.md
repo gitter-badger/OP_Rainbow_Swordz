@@ -10,7 +10,7 @@ By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteb
 
 ![Rainbow Sword](https://raw.githubusercontent.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/master/Items/Weapons/Melee/OP_Sword.png) Adds a rainbow sword that deals about 90,000,000 damage.
 
-![Dirt block](https://i.imgur.com/3bKKPn7.png) Craft with one dirt block.
+![Dirt block](https://i.imgur.com/3bKKPn7.png) Craft with one dirt block, because this is a cheat mod. :laughing: :grin:
 
 ![Rapid fire gun](https://raw.githubusercontent.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/master/Items/Weapons/Range/Rapid_Fire_Gun.png) Also adds a rapid fire gun that deals about 5,000 damage, but that's per frame!!
 
