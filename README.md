@@ -6,6 +6,8 @@
 
 ### Have a bug or an idea, report [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/issues/new).
 
+### [When this mod gets 1,000 downloads, I will do something special.](https://github.com/wooden-utensil/OP_Rainbow_Swordz/milestone/1)
+
 ---
 
 By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me on [Steam](https://steamcommunity.com/))
