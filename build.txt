@@ -1,4 +1,4 @@
 author = whiteboardMarkers
-version = 2.5
+version = 3
 displayName = OP Rainbow Sword!
 homePage = https://github.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/
