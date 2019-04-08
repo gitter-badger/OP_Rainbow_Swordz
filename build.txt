@@ -1,4 +1,4 @@
 author = whiteboardMarkers
-version = 5.2.0
+version = 5.2.2
 displayName = OP Rainbow Sword!
 homepage = https://wooden-utensil.github.io/OP_Rainbow_Swordz/
