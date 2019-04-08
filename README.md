@@ -1,6 +1,6 @@
 # OP Rainbow Sword!
 
-### (A.K.A. OP_Rainbow_Swordz, or OP-Rainbow-Swordz-TModLoader)
+### (A.K.A. OP_Rainbow_Swordz)
 
 ### A TModLoader mod for Terraria
 
