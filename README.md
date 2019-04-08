@@ -13,6 +13,8 @@
 
 ### [When this mod gets 1,000 downloads, I will do something special.](https://github.com/wooden-utensil/OP_Rainbow_Swordz/milestone/1)
 
+#### Tested on TModLoader v0.10.1.4, use at your own risk on other versions.
+
 ---
 
 By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me on [Steam](https://steamcommunity.com/))
