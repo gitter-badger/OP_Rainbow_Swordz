@@ -10,7 +10,7 @@ namespace OP_Rainbow_Swordz.Items.Weapons.Range
 	{
 		public override void SetStaticDefaults() {
 			DisplayName.SetDefault("Rapid Fire Gun");
-			Tooltip.SetDefault("This is a cheat Fire Gun! It's super quick.\nUses fire arrows even if you don't have any, also doesn't consume ammo.");
+			Tooltip.SetDefault("This is a cheat Fire Gun! It's super quick.\nUses fire arrows even if you don't have any,\nalso doesn't consume ammo.");
 		}
 		public override void SetDefaults() {
 			item.damage = 500;
