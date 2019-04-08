@@ -8,7 +8,7 @@
 
 ---
 
-By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me)
+By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me on [Steam](https://steamcommunity.com/))
 
 Picture  | Description
 ---------|------------
