@@ -29,7 +29,6 @@ namespace OP_Rainbow_Swordz.Items.Weapons.Range
 			item.shoot = ProjectileID.FireArrow;
 			item.shootSpeed = 6f;
 			item.scale = 1.5f;
-			Main.NewText("Rapid Fire Gun!", 255, 255, 255, false);
 		}
 
 		public override void AddRecipes() {
