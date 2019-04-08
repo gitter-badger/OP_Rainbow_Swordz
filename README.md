@@ -6,8 +6,6 @@ Download [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/releases/lat
 
 By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me)
 
----
-
 Picture  | Description
 ---------|------------
 ![Rainbow Sword](https://raw.githubusercontent.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/master/Items/Weapons/Melee/OP_Sword.png) | Adds a rainbow sword that deals about 90,000,000 damage.
