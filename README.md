@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="favicon.ico" />
 
 <h1 align="center">
   OP <span style="color:#ff0000">R</span><span style="color:#ff8800">a</span><span style="color:#ffff00">i</span><span style="color:#00ff00">n</span><span style="color:#00ffff">b</span><span style="color:#0000ff">o</span><span style="color:#ff00ff;">w</span> Sword!<br>
