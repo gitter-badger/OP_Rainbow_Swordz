@@ -1,2 +1,2 @@
-Adds a sword that deals about 90,000,000 damage. Craft with one dirt block.
+Adds a rainbow sword that deals about 90,000,000 damage. Craft with one dirt block.
 Also adds a rapid fire gun that deals about 5,000 damage, but that's per frame!!
