@@ -6,6 +6,8 @@
 
 ### Have a bug or an idea, report [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/issues/new).
 
+---
+
 By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me)
 
 Picture  | Description
