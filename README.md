@@ -1,4 +1,8 @@
-# OP <span style="color:#ff0000">R</span><span style="color:#ff8800">a</span><span style="color:#ffff00">i</span><span style="color:#00ff00">n</span><span style="color:#00ffff">b</span><span style="color:#0000ff">o</span><span style="color:#ff00ff;">w</span> Sword!
+
+<h1 align="center">
+  OP <span style="color:#ff0000">R</span><span style="color:#ff8800">a</span><span style="color:#ffff00">i</span><span style="color:#00ff00">n</span><span style="color:#00ffff">b</span><span style="color:#0000ff">o</span><span style="color:#ff00ff;">w</span> Sword!<br>
+  <img src="https://github.com/wooden-utensil/OP_Rainbow_Swordz/blob/master/icon.png?raw=true" alt="Icon">
+</h1>
 
 ## A [TModLoader](https://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/) mod for [Terraria](https://terraria.org/)
 
