@@ -1,7 +1,5 @@
 # OP Rainbow Sword!
 
-### (A.K.A. OP_Rainbow_Swordz)
-
 ### A TModLoader mod for Terraria
 
 Download [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/releases/latest)
