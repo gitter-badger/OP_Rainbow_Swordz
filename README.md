@@ -4,7 +4,7 @@
 
 ### A TModLoader mod for Terraria
 
-Download [here](https://github.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/releases/latest)
+Download [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/releases/latest)
 
 By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteboard/) (me)
 
@@ -16,4 +16,4 @@ By [whiteboardMarkers](https://steamcommunity.com/id/MarkersWillDrawOnThisWhiteb
 
 ![Rapid fire gun](https://raw.githubusercontent.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/master/Items/Weapons/Range/Rapid_Fire_Gun.png) Also adds a rapid fire gun that deals about 5,000 damage, but that's per frame!!
 
-### Have a bug or an idea, report [here](https://github.com/wooden-utensil/OP-Rainbow-Swordz-TModLoader/issues/new).
+### Have a bug or an idea, report [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/issues/new).
