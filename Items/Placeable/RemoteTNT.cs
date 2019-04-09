@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 
 namespace OP_Rainbow_Swordz.Items.Placeable
 {
-	public class ExampleBlock : ModItem
+	public class RemoteTNT : ModItem
 	{
 		public override void SetStaticDefaults() {
 			DisplayName.SetDefault("Remote TNT");
