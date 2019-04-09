@@ -23,7 +23,7 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 			item.useTime = 999;
 			item.useStyle = 1;
 			item.consumable = true;
-			item.createTile = mod.TileType("TNT");
+			item.createTile = mod.TileType("TileTNT");
 		}
 
 		public override void AddRecipes() {
