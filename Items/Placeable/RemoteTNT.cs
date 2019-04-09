@@ -19,7 +19,7 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 			item.useTurn = true;
 			item.autoReuse = true;
 			item.useAnimation = 5;
-			item.useTime = 999;
+			item.useTime = 5;
 			item.useStyle = 1;
 			item.consumable = true;
 			item.createTile = mod.TileType("TileTNT");
@@ -30,6 +30,10 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 			recipe.AddIngredient(ItemID.DirtBlock, 1);
 			recipe.SetResult(this, 999);
 			recipe.AddRecipe();
+			ModRecipe recipe2 = new ModRecipe(mod);
+			recipe2.AddIngredient(ItemID.DirtBlock, 1);
+			recipe2.SetResult(this, 1); // Just if you want 1 and not 999!
+			recipe2.AddRecipe();
 		}
 	}
 }
