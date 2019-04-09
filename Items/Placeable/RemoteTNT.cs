@@ -28,7 +28,7 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 		public override void AddRecipes() {
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.DirtBlock, 1);
-			recipe.SetResult(this);
+			recipe.SetResult(this, 999);
 			recipe.AddRecipe();
 		}
 	}
