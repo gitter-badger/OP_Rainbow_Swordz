@@ -19,7 +19,7 @@ namespace OP_Rainbow_Swordz.Items.Weapons.Range
 			item.height = 20;
 			item.useTime = 1;
 			item.useAnimation = 5;
-			item.useStyle = 5;
+			item.useStyle = 5; // Holding out
 			item.noMelee = true;
 			item.knockBack = 999;
 			item.value = 90000000;

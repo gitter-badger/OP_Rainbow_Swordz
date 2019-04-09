@@ -19,7 +19,7 @@ namespace OP_Rainbow_Swordz.Items.Weapons.Melee
 			item.height = 3450;
 			item.useTime = 999;
 			item.useAnimation = 5;
-			item.useStyle = 1;
+			item.useStyle = 1; // Swinging
 			item.knockBack = 999;
 			item.value = 100000000;
 			item.rare = 2;

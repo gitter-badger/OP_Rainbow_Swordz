@@ -5,12 +5,21 @@ using Terraria.ModLoader;
 
 namespace OP_Rainbow_Swordz.Items.Placeable
 {
-	public class RemoteTNT : ModItem
+	public class TNTDetonator : ModItem
 	{
 		public override void SetStaticDefaults() {
-			DisplayName.SetDefault("Remote TNT");
-			Tooltip.SetDefault("Use with TNT detonator.");
+			DisplayName.SetDefault("Remote TNT Detonator");
+			Tooltip.SetDefault("Use with Remote TNT.\nUse to blow up all Remote TNT blocks.");
 		}
+
+		public override bool CanUseItem(Player player) {
+			return true;
+		}
+
+		public override bool UseItem(Player player) {
+			return true;
+		}
+
 
 		public override void SetDefaults() {
 			item.width = 12;
@@ -20,9 +29,8 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 			item.autoReuse = true;
 			item.useAnimation = 15;
 			item.useTime = 10;
-			item.useStyle = 1; // Swinging
+			item.useStyle = 4; // Holding up
 			item.consumable = true;
-			item.createTile = mod.TileType("TileTNT");
 		}
 
 		public override void AddRecipes() {
