@@ -18,8 +18,8 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 			item.maxStack = 999;
 			item.useTurn = true;
 			item.autoReuse = true;
-			item.useAnimation = 5;
-			item.useTime = 5;
+			item.useAnimation = 15;
+			item.useTime = 10;
 			item.useStyle = 1;
 			item.consumable = true;
 			item.createTile = mod.TileType("TileTNT");
