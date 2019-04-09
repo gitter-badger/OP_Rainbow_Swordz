@@ -3,7 +3,7 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace OP_Rainbow_Swordz.Items.Placeable
+namespace OP_Rainbow_Swordz.Items
 {
 	public class TNTDetonator : ModItem
 	{
@@ -17,6 +17,7 @@ namespace OP_Rainbow_Swordz.Items.Placeable
 		}
 
 		public override bool UseItem(Player player) {
+			Main.NewText("Destruction incoming!!");
 			return true;
 		}
 
