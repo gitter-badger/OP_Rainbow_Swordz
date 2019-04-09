@@ -8,13 +8,11 @@ namespace OP_Rainbow_Swordz.Tiles
 	{
 		public override void SetDefaults() {
 			Main.tileSolid[Type] = true;
-			Main.tileMergeDirt[Type] = true;
+			Main.tileMergeDirt[Type] = false;
 			Main.tileBlockLight[Type] = true;
 			Main.tileLighted[Type] = true;
-			dustType = mod.DustType("Sparkle");
-			drop = mod.ItemType("ExampleBlock");
-			AddMapEntry(new Color(200, 200, 200));
-			SetModTree(new ExampleTree());
+			drop = mod.ItemType("RemoteTNT");
+			AddMapEntry(new Color(25,25,25));
 		}
 
 		public override void ModifyLight(int i, int j, ref float r, ref float g, ref float b) {
