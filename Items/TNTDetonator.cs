@@ -25,11 +25,11 @@ namespace OP_Rainbow_Swordz.Items
 		public override void SetDefaults() {
 			item.width = 12;
 			item.height = 12;
-			item.maxStack = 999;
+			item.maxStack = 1;
 			item.useTurn = true;
 			item.autoReuse = true;
 			item.useAnimation = 15;
-			item.useTime = 10;
+			item.useTime = 30;
 			item.useStyle = 4; // Holding up
 			item.consumable = true;
 		}
@@ -37,12 +37,8 @@ namespace OP_Rainbow_Swordz.Items
 		public override void AddRecipes() {
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddIngredient(ItemID.DirtBlock, 1);
-			recipe.SetResult(this, 999);
+			recipe.SetResult(this, 1);
 			recipe.AddRecipe();
-			ModRecipe recipe2 = new ModRecipe(mod);
-			recipe2.AddIngredient(ItemID.DirtBlock, 1);
-			recipe2.SetResult(this, 1); // Just if you want 1 and not 999!
-			recipe2.AddRecipe();
 		}
 	}
 }
