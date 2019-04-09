@@ -7,6 +7,8 @@
 
 ## A [TModLoader](https://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/) mod for [Terraria](https://terraria.org/)
 
+[![Join the chat at https://gitter.im/OP_Rainbow_Swordz/community](https://badges.gitter.im/OP_Rainbow_Swordz/community.svg)](https://gitter.im/OP_Rainbow_Swordz/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Download [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/releases/latest)
 
 ### Have a bug or an idea, report [here](https://github.com/wooden-utensil/OP_Rainbow_Swordz/issues/new).
