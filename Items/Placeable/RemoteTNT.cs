@@ -1,6 +1,5 @@
 using Terraria;
 using Terraria.ID;
-using static Terraria.Localization.GameCulture;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
